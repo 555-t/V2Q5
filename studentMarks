@@ -1,4 +1,10 @@
-* program requirements :
+package v2q5;
+
+/**
+ *
+ * @sya 2024
+ * 
+ * program requirements :
  * 1. store name, id, marks
  * 2. display list student with marks 
  * 3. find highest mark
